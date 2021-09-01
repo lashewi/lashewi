@@ -1,11 +1,3 @@
-### Hi there 👋
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lashewi/)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://lashewi.medium.com/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lashewi&theme=locale&show_icons=true&count_private=true)
 
 <!--
 **lashewi/lashewi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
