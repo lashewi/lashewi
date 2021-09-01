@@ -7,7 +7,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lashewi&theme=prussian&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lashewi&layout=compact)](https://github.com/lashewi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lashewi)](https://github.com/lashewi/github-readme-stats)
+
 
 <!--
 **lashewi/lashewi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
