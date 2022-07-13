@@ -1,7 +1,11 @@
-### Hi there
+Hi There 🖖
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lashewi/)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@lashewi)
+My name is Lakshitha.
+
+- 🔭 I’m currently working on Rootcode Labs, Code for Sri Lanka
+- 👯 I’m looking to collaborate on Civic Tech projects.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lashewi/) and [Medium](https://medium.com/@lashewi)
+
 
 <!--
 **lashewi/lashewi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
