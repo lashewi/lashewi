@@ -2,7 +2,7 @@ Hi There 🖖
 
 My name is Lakshitha.
 
-- 🔭 I’m currently working on Sysco LABS and Code for Sri Lanka
+- 🔭 I’m currently working at Sysco LABS and Code for Sri Lanka
 - 👯 I’m looking to collaborate on Civic Tech projects.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lashewi/) and [Medium](https://medium.com/@lashewi)
 
