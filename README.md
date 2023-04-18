@@ -1,10 +1,16 @@
-Hi There 🖖
+### 👋 Hi
 
-My name is Lakshitha.
+I'm Lakshitha, a programmer and infrequent writer. I love F1, basketball, video games, and photography.
 
-- 🔭 I’m currently working at Sysco LABS and Code for Sri Lanka
-- 👯 I’m looking to collaborate on Civic Tech projects.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lashewi/), [Blog](https://lakshitha.blog/)
+### 🔭 I’m currently working on ...
+
+During the day, I'm a Senior Software Engineer at Sysco LAB. During the evenings you'll find me tinkering with side projects for Code for Sri Lanka.
+
+Once in a blue moon, I do some writing, which you can find on my [Blog](https://lakshitha.blog/) or [Medium](https://medium.com/@lashewi)
+
+### 📫 How to reach me
+
+Feel free to drop a message through [Linkedin](https://www.linkedin.com/in/lashewi/)
 
 
 <!--
