@@ -1,10 +1,10 @@
 ### 👋 Hi
 
-I'm Lakshitha, a programmer and infrequent writer. I love F1, basketball, video games, and photography.
+I'm Lakshitha—a programmer and occasional writer. I spend my time as a part-time beekeeper, baker, and basketball enthusiast. Human, of course.
 
 ### 🔭 I’m currently working on ...
 
-During the day, I'm a Senior Software Engineer at Sysco LAB. During the evenings you'll find me tinkering with side projects for Code for Sri Lanka.
+During the day, I'm an Associate Technical Lead at Sysco LAB. During the evenings you'll find me tinkering with side projects for Code for Sri Lanka.
 
 Once in a blue moon, I do some writing, which you can find on my [Blog](https://lakshitha.blog/) or [Medium](https://medium.com/@lashewi)
 
