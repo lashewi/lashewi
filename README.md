@@ -1,6 +1,6 @@
 ### 👋 Hi
 
-I'm Lakshitha—a programmer and occasional writer. I spend my time as a part-time beekeeper, baker, and basketball enthusiast. Human, of course.
+I'm Lakshitha - a programmer and occasional writer. I spend my time as a part-time beekeeper, baker, and basketball enthusiast. Human, of course.
 
 ### 🔭 I’m currently working on ...
 
